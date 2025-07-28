@@ -2,7 +2,7 @@
 ![logo](banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Sayantan Mandal</h1>
-<h3 align="center">An Engineering Student | Frontend Developer | Tech Enthusiast</h3>
+<h3 align="center">An Electroics Engineering Student | ME, BITS Pilani,Hyderabad Campus | Digital Design </h3>
 
 ---
 

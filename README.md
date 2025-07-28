@@ -1,13 +1,12 @@
-<!-- Header GIF or Banner -->
-<img src="https://media.giphy.com/media/YOUR-GIF-HERE.gif" width="100%" />
+<!-- Banner Image -->
+![logo](banner.jpg)
 
-# 👋 Hi there, I'm **Sayantan Mandal**!
+<h1 align="center">Hi 👋, I'm Sayantan Mandal</h1>
+<h3 align="center">An Engineering Student | Frontend Developer | Tech Enthusiast</h3>
 
-I'm a passionate software developer with interests in [your interests], building cool stuff with:
-- 🔭 Currently working on [Project/Tech]
-- 🌱 Currently learning [Tech/Framework]
-- 💬 Ask me about [Topics]
-- 📫 How to reach me: [Email or social links]
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SayantanMandal2000&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ---
 

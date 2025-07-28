@@ -28,12 +28,22 @@
 
 ## 🧰 Languages and Tools:
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> <img <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-<img src="https://img.icons8.com/external-outline-juicy-fish/60/000000/external-chip-circuit-outline-outline-juicy-fish.png" alt="Verilog" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+### 🛠️ Languages & Tools
 
+<p align="left">
+  <!-- C -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  
+  <!-- Python -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  
+  <!-- Vivado -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Xilinx_Vivado_Design_Suite_Logo.svg/320px-Xilinx_Vivado_Design_Suite_Logo.svg.png" alt="Vivado" width="60" height="40"/>
+
+  <!-- ModelSim -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/ModelSim_Logo.png/320px-ModelSim_Logo.png" alt="ModelSim" width="60" height="40"/>
 </p>
+
 
 ---
 

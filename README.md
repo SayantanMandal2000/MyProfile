@@ -2,7 +2,7 @@
 ![logo](banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Sayantan Mandal</h1>
-<h3 align="center">An Electronics Engineering Student | ME, BITS Pilani,Hyderabad Campus | Digital Design </h3>
+<h3 align="center">An Microlectronics Engineering Student | ME, BITS Pilani,Hyderabad Campus | Digital Design </h3>
 
 ---
 
@@ -18,7 +18,8 @@
 ## 🧰 Languages and Tools:
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> &<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vhdl/vhdl-original.svg" alt="Verilog (VHDL Icon)" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>

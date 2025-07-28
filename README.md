@@ -6,6 +6,14 @@
 
 ---
 
+### 👨‍💻 About Me
+
+- 🔭 I'm an enthusiastic **Fronted VLSI Designer**, skilled in building hardware design using **Verilog** .
+- 💡 Strong foundation in **Verilog**, **C**, **C++**, **Cadence Virtuoso**, **Cadence Genus** and core concepts like **SoC** , **AMBA Protocol** , **STA** .
+- 🎯 Passionate about clean code, PPA (Power, Performance , Area) optimized design.
+
+---
+
 ### 🤝 Connect with Me
 
 

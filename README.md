@@ -8,9 +8,12 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm an enthusiastic **Fronted VLSI Designer**, skilled in building hardware design using **Verilog** .
-- 💡 Strong foundation in **Verilog**, **C**, **C++**, **Cadence Virtuoso**, **Cadence Genus** and core concepts like **SoC** , **AMBA Protocol** , **STA** .
-- 🎯 Passionate about clean code, PPA (Power, Performance , Area) optimized design.
+- 🎓 I'm currently pursuing **M.E. in Microelectronics** at **BITS Pilani, Hyderabad Campus**
+- 🔭 Actively working on projects in **RTL Design**, **SoC Design & Verification**, and **Digital VLSI**
+- 🧠 Exploring **Chiplet Interconnects**, **AXI/AMBA Protocols**, and **Low-Power RTL Design**
+- 💻 Proficient in **Verilog**, **SystemVerilog**, **C**, **C++** and **Python**
+- 🛠️ Experienced with tools like **Vivado**, **Cadence Genus/Innovus**
+- 🎯 Passionate about **clean code** , **PPA (Power, Performance , Area)** optimized design.
 
 ---
 

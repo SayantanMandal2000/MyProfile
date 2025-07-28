@@ -30,7 +30,7 @@
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> <img <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vhdl/vhdl-original.svg" alt="Verilog (VHDL Icon)" width="40" height="40"/>
+<img src="https://img.icons8.com/external-outline-juicy-fish/60/000000/external-chip-circuit-outline-outline-juicy-fish.png" alt="Verilog" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 
 </p>

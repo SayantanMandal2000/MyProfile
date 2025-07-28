@@ -2,7 +2,7 @@
 ![logo](banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Sayantan Mandal</h1>
-<h3 align="center">An Electroics Engineering Student | ME, BITS Pilani,Hyderabad Campus | Digital Design </h3>
+<h3 align="center">An Electronics Engineering Student | ME, BITS Pilani,Hyderabad Campus | Digital Design </h3>
 
 ---
 
@@ -16,6 +16,15 @@
   ---
 
 ## 🧰 Languages and Tools:
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  
+</p>
+
 <p>
   <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/-Verilog-05122A?style=flat&logo=verilog" />

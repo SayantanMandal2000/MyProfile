@@ -1,7 +1,7 @@
 <!-- Header GIF or Banner -->
 <img src="https://media.giphy.com/media/YOUR-GIF-HERE.gif" width="100%" />
 
-# 👋 Hi there, I'm [Sayantan Mandal]!
+# 👋 Hi there, I'm **Sayantan Mandal**!
 
 I'm a passionate software developer with interests in [your interests], building cool stuff with:
 - 🔭 Currently working on [Project/Tech]

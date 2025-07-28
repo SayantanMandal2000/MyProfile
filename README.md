@@ -4,11 +4,16 @@
 <h1 align="center">Hi 👋, I'm Sayantan Mandal</h1>
 <h3 align="center">An Engineering Student | Frontend Developer | Tech Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SayantanMandal2000&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 ---
+
+### 🤝 Connect with Me
+
+
+  <a href="https://www.linkedin.com/in/sayantanmandal2000" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+
+  ---
 
 ## 🧰 Languages and Tools:
 <p>

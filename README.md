@@ -37,7 +37,7 @@
 ---
 
 ## 📫 Let's Connect!
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/sayantanmandal2000)
 
 
 ---

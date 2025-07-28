@@ -38,7 +38,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   
   <!-- Vivado -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Xilinx_Vivado_Design_Suite_Logo.svg/320px-Xilinx_Vivado_Design_Suite_Logo.svg.png" alt="Vivado" width="60" height="40"/>
+   <img src="https://raw.githubusercontent.com/YourUsername/YourRepoName/main/assets/vivado.png" alt="Vivado" width="60" height="40"/>
+  <img src="https://raw.githubusercontent.com/YourUsername/YourRepoName/main/assets/modelsim.png" alt="ModelSim" width="60" height="40"/>
+</p>
 
   <!-- ModelSim -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/ModelSim_Logo.png/320px-ModelSim_Logo.png" alt="ModelSim" width="60" height="40"/>

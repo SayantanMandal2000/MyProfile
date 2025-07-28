@@ -39,7 +39,7 @@
   
   <!-- Vivado -->
    <img src="https://raw.githubusercontent.com/YourUsername/YourRepoName/main/assets/vivado.png" alt="Vivado" width="60" height="40"/>
-  <img src="https://raw.githubusercontent.com/YourUsername/YourRepoName/main/assets/modelsim.png" alt="ModelSim" width="60" height="40"/>
+  <img src="https://raw.githubusercontent.com/SayantanMandal2000/MyProfile/blob/main/cadence.png" alt="ModelSim" width="60" height="40"/>
 </p>
 
   <!-- ModelSim -->
